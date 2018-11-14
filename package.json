@@ -1,0 +1,20 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "a=]uthor": "",
+  "license": "ISC",
+  "author": "",
+  "dependencies": {
+    "count": "^0.1.4",
+    "litter": "0.0.1",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
